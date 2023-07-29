@@ -1,5 +1,5 @@
 -  Hi, I’m @DumbDergMerciful
--  I’m interested in Dergs
+-  I’m interested in Dragons
 -  I'm currently learning python
 -  I enjoy funny block game (Minecraft)
 <hr>
