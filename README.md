@@ -1,7 +1,6 @@
 -  Hi, I’m @DumbDergMerciful
 -  I’m interested in Dragons
--  I'm currently learning python
--  I enjoy funny block game (Minecraft)
+-  I'm currently learning python!💜
 <hr>
 I'm not the best so far but am trying to get better
 <br>
