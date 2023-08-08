@@ -6,4 +6,4 @@ I'm not the best so far but am trying to get better
 <br>
 Still have quite a few unfinshed projects
 <hr>
-![](https://komarev.com/ghpvc/?username=dumbdergmerciful&color=green)
+![hi](https://komarev.com/ghpvc/?username=dumbdergmerciful&color=green)
