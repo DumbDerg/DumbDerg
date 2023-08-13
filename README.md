@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Merciful%20-8A2BE2)
+![Static Badge](https://img.shields.io/badge/Merciful%20-8A2BE2)![Static Badge](https://img.shields.io/badge/@DumbDergMerciful%20-8A2BE2)
 -  Hi, I’m @DumbDergMerciful💜
 -  I’m interested in Dragons💜
 -  I'm currently learning Java!💜
