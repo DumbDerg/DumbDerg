@@ -1,5 +1,5 @@
-![Static Badge](https://img.shields.io/badge/Merciful%20-8A2BE2) ![Static Badge](https://img.shields.io/badge/@DumbDerg%20-A384CF)
--  Hi, I’m @DumbDergMerciful💜
+![Static Badge](https://img.shields.io/badge/Dragon%20-8A2BE2) ![Static Badge](https://img.shields.io/badge/@DumbDerg%20-A384CF)
+-  Hi, I’m @DumbDerg💜
 -  I’m interested in Dragons💜
 -  I'm currently learning Java!💜
 -  Spigot plugin developer!💜
