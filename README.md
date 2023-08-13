@@ -10,3 +10,4 @@ Still have quite a few unfinshed projects
 <br>
 ![merci_princess](https://github.com/DumbDergMerciful/DumbDergMerciful/assets/94778270/2a20b5c1-1772-4bd1-b980-838a1dce21ec)
 <br>
+![Static Badge](https://img.shields.io/badge/:badgeContent)
