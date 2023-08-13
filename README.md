@@ -9,5 +9,4 @@ Still have quite a few unfinshed projects
 
 ![static badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
-![merci_princess](https://github.com/DumbDergMerciful/DumbDergMerciful/assets/94778270/0a7c8a6f-7c8f-4630-9e6a-25f4abd3596a)
-<img src="https://github.com/DumbDergMerciful/DumbDergMerciful/assets/94778270/0a7c8a6f-7c8f-4630-9e6a-25f4abd3596a"  width="600" height="300">
+<img src="(https://github.com/DumbDergMerciful/DumbDergMerciful/assets/94778270/abd81029-d749-4d5a-9c14-47f499cfb1de"  width="400" height="150">
