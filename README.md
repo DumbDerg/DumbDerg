@@ -1,8 +1,3 @@
--  Hi, I’m @DumbDerg💜
--  I’m interested in Dragons💜
--  I'm currently learning Java!💜
--  Spigot plugin developer!💜
-<hr>
 I'm not the best so far but am trying to get better
 <br>
 Still have quite a few unfinshed projects
